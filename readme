@@ -45,9 +45,3 @@ webapp: This folder is used to store web application resources, such as JSPs, HT
 test: This folder contains the test code and resources for the application. The contents of this folder will not be included in the application artifact, but they are important for testing your application.
 
 In summary, the src folder in a Spring Boot project usually contains the main and test sub-folders, with main further organized into controller, service, repository, and model sub-folders to organize the application code.
-
-
-
-
-prateek chhimwal
-@autowired in sprin
